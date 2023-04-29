@@ -1,6 +1,6 @@
 ## Jason Kenney 👋
 
-🤔 Definition 
+### 🤔 Definition 
 
 **noun** - A biochemical process that converts caffiene into code.
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🧰 Toolbox
+### 🧰 Toolbox
 
 <p align="left">
   <img height="50" width="50" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" />
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   <img height="50" width="50" alt="Vim" src="https://github.com/devicons/devicon/raw/master/icons/vim/vim-plain.svg" />
 </p>
 
-## 🐻Toybox
+### 🐻Toybox
 
 <p align="left">
   <img height="50" width="50" alt="Board Games" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Dice.svg/2560px-Dice.svg.png" />
