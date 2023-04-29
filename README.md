@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 🧰 Toolbox
 
----
-
 <img height="50" width="50" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" />
 
 <img height="50" width="50" alt="Elixir Logo" src="https://github.com/devicons/devicon/raw/master/icons/elixir/elixir-plain.svg" />
@@ -47,3 +45,5 @@ Here are some ideas to get you started:
 <img height="50" width="50" alt="Postgres" src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-plain.svg" />
 
 <img height="50" width="50" alt="Vim" src="https://github.com/devicons/devicon/raw/master/icons/vim/vim-plain.svg" />
+
+---
