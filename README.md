@@ -1,5 +1,4 @@
 ### Jason Kenney 👋
----
 
 🤔 Definition 
 
@@ -19,8 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
----
 
 🧰 Toolbox
 
@@ -52,8 +49,6 @@ Here are some ideas to get you started:
   <img height="50" width="50" alt="Vim" src="https://github.com/devicons/devicon/raw/master/icons/vim/vim-plain.svg" />
 </p>
 
----
-
 🐻Toybox
 
 <p align="left">
@@ -64,5 +59,9 @@ Here are some ideas to get you started:
   <img height="50" width="50" alt="Tabletop RPG" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Font_Awesome_5_solid_dice-d20.svg/512px-Font_Awesome_5_solid_dice-d20.svg.png?20181017203656" />
   <img height="50" width="50" alt="Video Games" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Game_controller.svg/2048px-Game_controller.svg.png" />
 </p>
-  
----
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=therealjasonkenney&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=therealjasonkenney&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
