@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <img height="50" width="50" alt="Ruby" src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" />
   <img height="50" width="50" alt="Ruby on Rails" src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-plain.svg" />
 
-  <img height="50" width="50" alt="Rust" src="https://github.com/devicons/devicon/raw/master/icons/rust/rust-plain.svg" />
+  <img height="50" width="50" alt="Rust" src="https://github.com/devicons/devicon/raw/master/icons/rust/rust-line.svg" />
                
   <img height="50" width="50" alt="MySQL" src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" />
   <img height="50" width="50" alt="Postgres" src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-plain.svg" />
