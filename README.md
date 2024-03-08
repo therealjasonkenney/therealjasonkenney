@@ -29,7 +29,6 @@ Here are some ideas to get you started:
   <img height="50" width="50" alt="Golang" src="https://github.com/devicons/devicon/raw/master/icons/go/go-plain.svg" />
 
   <img height="50" width="50" alt="Javascript" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-plain.svg" />
-  <img height="50" width="50" alt="NestJS" src="https://github.com/devicons/devicon/raw/master/icons/nestjs/nestjs-plain.svg" />
   <img height="50" width="50" alt="React" src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" />
 
   <img height="50" width="50" alt="LaTeX" src="https://github.com/devicons/devicon/raw/master/icons/latex/latex-original.svg" />
