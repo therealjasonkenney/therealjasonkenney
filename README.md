@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   <img height="50" width="50" alt="Board Games" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/EMudhra_Private_Key_Dice.svg/250px-EMudhra_Private_Key_Dice.svg.png" />
   <img height="50" width="50" alt="Fantasy" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Speculative_fiction_portal_logo_small_transparent.png" />
   <img height="50" width="50" alt="Hiking" src="https://freesvg.org/img/johnny-automatic-NPS-map-pictographs-part-95.png" />
-  <img height="50" width="50" alt="Photography" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/High-contrast-camera-photo.svg/2048px-High-contrast-camera-photo.svg.png" />
-  <img height="50" width="50" alt="Tabletop RPG" src="https://commons.wikimedia.org/wiki/Category:20-sided_dice#/media/File:Font_Awesome_5_solid_dice-d20.svg" />
-  <img height="50" width="50" alt="Video Games" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Game_controller.svg/2048px-Game_controller.svg.png" />
+  <img height="50" width="50" alt="Photography" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/High-contrast-camera-photo-2.svg/120px-High-contrast-camera-photo-2.svg.png" />
+  <img height="50" width="50" alt="Tabletop RPG" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Font_Awesome_5_solid_dice-d20.svg/250px-Font_Awesome_5_solid_dice-d20.svg.png" />
+  <img height="50" width="50" alt="Video Games" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Video-Game-Controller-Icon-IDV-green.svg/960px-Video-Game-Controller-Icon-IDV-green.svg.png" />
 </p>
